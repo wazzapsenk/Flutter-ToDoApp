@@ -1,6 +1,6 @@
 # ToDo Application on Flutter
 
-You can add new plan and delete past plans.
+You can add show to-dos new to-dos and delete past ones.
 
 ## Screenshots
 
