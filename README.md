@@ -1,9 +1,9 @@
 # Flutter NoSQL Todo App
 
-![App Screenshot1](https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot1.png)
-![App Screenshot2](https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot2.png)
-![App Screenshot3](https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot3.png)
-![App Screenshot4](https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot4.png)
+<img src="https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot1.png" width="25%"></img> 
+<img src="https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot2.png" width="25%"></img> 
+<img src="https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot3.png" width="25%"></img> 
+<img src="https://github.com/wazzapsenk/Flutter-ToDoApp/blob/master/Screenshot4.png" width="25%"></img>
 
 ## Project Description
 
